@@ -10,3 +10,7 @@
 
 This website is devlop by Arjun kumar
 ![preview img](/preview.png)
+
+# Preview Video
+
+![privew mp4](/video1.mp4)
