@@ -13,4 +13,4 @@ This website is devlop by Arjun kumar
 
 # Preview Video
 
-![privew mp4](/video1.mp4)
+https://github.com/Arj5rock/Halloween_Portfolio_Website/assets/88869832/7703be00-b52f-42a8-a3c0-f1fac1fe90ef
